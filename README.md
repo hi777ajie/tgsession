@@ -9,14 +9,11 @@
 
 Simple Telethon and GramJS string session generator written in GramJS
 
-## What does it do ? 
-* Generate Gramjs and Telethon Session String With Just One Command 
 
-* No Setup Needed :) 
-
-## How to use it ? 
+## What can it Do ? 
 * Make Sure Node is Installed 
 * Simply Run This in Terminal
+* No Setup Needed :) 
 
 ```
 
